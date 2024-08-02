@@ -3,9 +3,9 @@ let n1= 10    // number inteiro
 let n2= 2     // number inteiro
 let n3= "2"   // string texto
 
-document.write(´N1 ${n1} <br>´)
-document.write(´N2 ${n2} <br>´)
-document.write(´N3 ${n3} <br>´)
+document.write(`N1 ${n1} <br>`)
+document.write(`N2 ${n2} <br>`)
+document.write(`N3 ${n3} <br>`)
 
 console.log(n1 + n2) // adicao
 console.log(n1 - n2) // subtracao
